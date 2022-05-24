@@ -1,2 +1,2 @@
-# http://silasneto77.github.io/index.html/
+# http://silasneto77.github.io
 My personal website
