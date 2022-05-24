@@ -1,2 +1,2 @@
-# http://silasneto77.github.io
-My personal website
+# Curriculo-HTML
+Currículo feito em HTML para um trabalho acadêmico.
